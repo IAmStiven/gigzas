@@ -1,0 +1,7 @@
+numpy
+Flask
+urllib3
+Flask-Cors
+pymongo
+gunicorn
+logtail-python
